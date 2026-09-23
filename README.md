@@ -16,7 +16,7 @@ Below is a list of projects contained within this repository. Each project has i
 
 | Project Name | Description | Key Skills / Tools |
 |---|---|---|
-| [world Layoffs](./Global-Tech-Layoffs/) | Data cleaning and exploratory analysis of global industry layoffs to uncover workforce trends. | MySQL, Data Cleaning, CTEs, Window Functions, EDA |
+| [world Layoffs](./1-world-layoffs) | Data cleaning and exploratory analysis of global industry layoffs to uncover workforce trends. | MySQL, Data Cleaning, CTEs, Window Functions, EDA |
 | [Project 2](./Project-2/) | Coming Soon |  |
 | [Project 3](./Project-3/) | Coming Soon |  |
 
