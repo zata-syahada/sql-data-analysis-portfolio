@@ -63,7 +63,7 @@ Below is a list of projects contained within this repository. Each project has i
 
 - 💼 **LinkedIn:** Zata Maitsaa Syahada (www.linkedin.com/in/zata-syahada)
 - 📧 **Email:** zatasyahada236@gmail.com
-- 🐙 **GitHub:** [@zata-syahada](https://github.com/zata-syahada)
+- 🐙 **GitHub:** @zata-syahada (https://github.com/zata-syahada)
 
 ---
 
